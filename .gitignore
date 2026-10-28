@@ -1,0 +1,7 @@
+# data and outputs are not redistributed
+*.csv
+*.txt
+!requirements.txt
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
